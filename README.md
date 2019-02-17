@@ -1,3 +1,10 @@
+# Marlin For Anycubic 4Max
+
+This fork provide a modified version of the Marlin firmware for use with Anycubic 4Max.
+
+Was Adjusted to support/include:
+1. tmc2208 (as a standalone, i.e., no uart).
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
