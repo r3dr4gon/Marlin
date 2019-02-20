@@ -4,6 +4,7 @@ This fork provide a modified version of the Marlin firmware for use with Anycubi
 
 Was Adjusted to support/include:
 1. tmc2208 (as a standalone, i.e., no uart).
+2. filament sensor moved to x_max_pin (D2) to make space for future BLTOUCH.
 
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
